@@ -1,3 +1,5 @@
+#Hangman game
+#Guess letters and words
 import random
 
 word_list = ["mango", "banana", "blueberry", "blackberry", "grapes"]
