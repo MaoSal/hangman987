@@ -1,7 +1,5 @@
 import random
 
-<<<<<<< HEAD
-=======
 word_list = ["mango", "banana", "blueberry", "blackberry", "grapes"]
 print(word_list)
 word = random.choice(word_list)
@@ -21,4 +19,3 @@ def check_guess(guess):
         ask_for_input()
 
 ask_for_input()
->>>>>>> 8d07182 (Added code to milestone_3.py)
